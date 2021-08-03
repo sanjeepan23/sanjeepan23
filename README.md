@@ -35,13 +35,14 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:sanjeepan.18@cse.mrt.ac.lk'>sanjeepan.18@cse.mrt.ac.lk</a>
 </p>
+
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/sanjeepan23/sanjeepan23"></a> hipsters and nerds have come here o/
 </p>
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeepan23"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeepan23"></a>
 </p>
 <!--
 **sanjeepan23/sanjeepan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
