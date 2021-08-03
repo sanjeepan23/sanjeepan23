@@ -36,9 +36,6 @@
   📫 How to reach me: <a href='mailto:sanjeepan.18@cse.mrt.ac.lk'>sanjeepan.18@cse.mrt.ac.lk</a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/sanjeepan23/sanjeepan23"></a> hipsters and nerds have come here o/
-</p>
 
 
 <p align='center'>
