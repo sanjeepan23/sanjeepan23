@@ -39,6 +39,10 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/sanjeepan23/sanjeepan23"></a> hipsters and nerds have come here o/
 </p>
 
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeepan23"></a> hipsters and nerds have come here o/
+</p>
 <!--
 **sanjeepan23/sanjeepan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
