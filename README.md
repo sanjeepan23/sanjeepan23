@@ -19,7 +19,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 </p>
   
-    ## 🔥 Web Development:
+<!--     ## 🔥 Web Development:
 
 <p align="left"> 
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="express" width="44" height="44"/> </a>
@@ -29,10 +29,10 @@
    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>  
       <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-</p>
+</p> -->
   
    
-  ## ⭐️ Libraries and Frameworks:
+<!--   ## ⭐️ Libraries and Frameworks:
 
 <p align="left"> 
      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
@@ -49,10 +49,10 @@
     <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>   
     <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="pytorch" width="44" height="40"/> </a> 
 </p>
-
+ -->
   
   
-   ##  💥  Tools, IDEs and Softwares:
+<!--    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
@@ -65,7 +65,7 @@
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
   <a href="https://uneecops.com/lpage/tableau-software-landing-page/?lead=Marketing%20Team&data=Pay%20per%20Click%20Ads&leadtype=BI&service=Tableau&utm_term=tablu&utm_campaign=Tableau+BI&utm_source=adwords&utm_medium=ppc&hsa_acc=8552612374&hsa_cam=1615962432&hsa_grp=61145525276&hsa_ad=518466757380&hsa_src=g&hsa_tgt=kwd-301142873929&hsa_kw=tablu&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw_8mHBhClARIsABfFgpjsZ7xm6kFh91pMncn7q1OAIqVApO9Uae5JTl9YNamEy5dnCO3C9TQaAmS_EALw_wcB" target="_blank"> <img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> </a> 
   <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
-  <a href="https://tzutalin.github.io/labelImg/"> <img src="https://i0.wp.com/neptune.ai/wp-content/uploads/LabelImg-logo.png?resize=192%2C192&ssl=1" alt="express" width="40" height="40" /> </a>
+  <a href="https://tzutalin.github.io/labelImg/"> <img src="https://i0.wp.com/neptune.ai/wp-content/uploads/LabelImg-logo.png?resize=192%2C192&ssl=1" alt="express" width="40" height="40" /> </a> -->
   
   
 </p>
