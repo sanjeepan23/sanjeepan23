@@ -7,7 +7,7 @@
 </p>
 
   
-  ## 🔥 Machine Learning:
+<!--   ## 🔥 Machine Learning:
 
 <p align="left"> 
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="express" width="44" height="44"/> </a>
@@ -17,7 +17,7 @@
    <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/> </a>  
       <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-</p>
+</p> -->
   
 <!--     ## 🔥 Web Development:
 
