@@ -21,7 +21,6 @@
 <a href="https://lk.linkedin.com/in/sanjeepan" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="29" width="30" /></a> 
 <a href="https://twitter.com/sanjeepan23" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="lin_ovindu" height="29" width="30" /></a>
 <a href="https://www.qwiklabs.com/public_profiles/f89b9d1b-5e24-4b8c-9f0c-fa93ea8cebf7" target="blank"><img align="center" src="https://ce.qwiklabs.com/qwiklabs_logo_900x887.png" alt="hack_ovindu" height="30" width="30" /></a>
-<img src=""/>
 
 
 </p>
