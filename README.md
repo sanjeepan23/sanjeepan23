@@ -17,7 +17,6 @@
 <h3 align="center"> Undergraduate | Developer </h3>
 <p align="center">
  <a href = "mailto: sanjeepan23[AT]gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="25" width="30" /></a>
-
 <a href="https://lk.linkedin.com/in/sanjeepan" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="29" width="30" /></a> 
 <a href="https://twitter.com/sanjeepan23" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="lin_ovindu" height="29" width="30" /></a>
    <a href="https://www.qwiklabs.com/public_profiles/f89b9d1b-5e24-4b8c-9f0c-fa93ea8cebf7" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/medium-monogram--v1.png" alt="hack_ovindu" height="30" width="30" /></a>
