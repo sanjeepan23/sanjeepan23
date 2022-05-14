@@ -17,12 +17,6 @@
 <h3 align="center"> Machine Learning Engineer - Intern </h3>
 <p align="center">
 
-<a href="https://lk.linkedin.com/in/sanjeepan" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="29" width="30" /></a> 
-<a href="https://twitter.com/sanjeepan23" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="lin_ovindu" height="29" width="30" /></a>
-   <img align="center" src="https://img.icons8.com/ios/50/000000/medium-monogram--v1.png" alt="hack_ovindu" height="30" width="30" /></a>
-
-
-
 </p>
 </p>
 
