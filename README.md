@@ -25,9 +25,6 @@
 <p align="center">
   <em>
     Hello everyone, I am <b> Sanjeepan Sivapiran </b> a Third year undergraduate @<a href="http://www.cse.mrt.ac.lk/"> <b> Dept. of Computer Science and Engineering,University Of Moratuwa</b>, Sri-Lanka</a>. <br>
-    I am a dedicated, organized, and methodical individual who has a 
-good understanding on the <br> basic concepts of computer programing 
-and a passion for Machine Learning and Software Engineering
   </em> 
   <br>
 </p>
